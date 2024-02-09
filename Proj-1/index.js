@@ -8,9 +8,9 @@ formLogin.addEventListener("submit", loginFormSubmission);
 
 
 
+// This file is now the MAIN file where I'd import all the necessery functions ans set up event listeners!
 
-
-
+// ==============================================
 
 
 // Copy from the previous lab:

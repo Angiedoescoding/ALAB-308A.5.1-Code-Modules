@@ -1,3 +1,5 @@
+// This module is for the info validation functionality.
+
 const errorDiv = document.getElementById("errorDisplay");
 
 function validatePasswords(passwordInput, repeatInput) {
