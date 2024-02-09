@@ -1,7 +1,10 @@
+import {registrationFormSubmission, loginFormSubmission} from './form-handlier.js'
 
+const formRegister = document.getElementById("registration");
+const formLogin = document.getElementById("login");
 
-
-
+formRegister.addEventListener("submit", registrationFormSubmission);
+formLogin.addEventListener("submit", loginFormSubmission);
 
 
 
