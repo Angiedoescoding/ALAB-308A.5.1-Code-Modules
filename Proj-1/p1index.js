@@ -1,4 +1,4 @@
-// The copy of the data collection lab (Mod 316.4 - For, Validation)
+// The copy of the data collection lab (Mod 316.4 - Form Validation)
 // - index.html
 // - index.js
 // - package.json
