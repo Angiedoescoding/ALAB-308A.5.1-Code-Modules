@@ -85,7 +85,6 @@ window.onload = function() {
 
 // }
 
-// ISSUE:  the image is not loading when the answer is correct. Unsure of how to get this to work.
 
 
 // Steps for the game:
